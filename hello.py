@@ -17,6 +17,10 @@ print(dev_config.base_url)
 print(prod_config.api_key)
 print(prod_config.model)
 print(prod_config.max_token)
+print(prod_config.base_url)
+print("hello world")
+print("hello world2")
+print("hello world3")
 
 
         
