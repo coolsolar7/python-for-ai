@@ -16,6 +16,7 @@ print(dev_config.max_token)
 print(dev_config.base_url)
 print(prod_config.api_key)
 print(prod_config.model)
+print(prod_config.max_token)
 
 
         
